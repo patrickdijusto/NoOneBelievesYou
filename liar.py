@@ -9,39 +9,6 @@ import random as rx
 global now
 global api
 
-##now = datetime.datetime.now()
-##message = str(now)
-##print (message)
-##
-####def establishTwitter():
-##
-##print('establish the twitter object')
-### see "Authentication" section below for tokens and keys
-##api = twitter.Api(consumer_key=CONSUMER_KEY,
-##        consumer_secret=CONSUMER_SECRET,
-##        access_token_key=OAUTH_TOKEN,
-##        access_token_secret=OAUTH_SECRET,
-##        )
-##
-##print('twitter object established')
-##
-##        ##api.PostUpdate(message)
-##
-##	##return api
-
-
-# def getQuote():
-
-        
-        # csv_file = csv.reader(open('politicalideals.csv', 'rb'))
-
-        # for row in csv_file:
-                # if rx.random()>.99:
-                        # print (csv_file.line_num)
-                        # break
-
-        # writeLog(str(row), 1, "a")						
-        # return row
 
 def readTrumpianTweet():
 	print ("nothing")
