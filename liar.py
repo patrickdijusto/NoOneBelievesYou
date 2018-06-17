@@ -53,7 +53,7 @@ def postReply(text,currentNumber):
         
 	## Construct URL : Http://www.twitter.com/realDonaldTrump/status/<<NUMBER>>
 
-        response = str(text)+" -- Bertrand Russell \n"+str(URX)
+        response = str(text)+" \n"+str(URX)
 
         print (response)
 
