@@ -1,3 +1,3 @@
 date >> log.txt
 
-python ~/BotrandRussell/BotrandRussell.py
+python ~/NoOneBelievesYou/liar.py
