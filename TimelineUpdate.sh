@@ -1,3 +1,7 @@
+cd Liar
+
+rm log.txt
+
 date >> log.txt
 
-python ~/BotrandRussell/BotrandRussell.py
+python ~/Liar/liar.py
